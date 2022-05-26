@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Emmi-Tenzies/static/css/main.d243cceb.css",
-    "main.js": "/Emmi-Tenzies/static/js/main.620b229c.js",
+    "main.js": "/Emmi-Tenzies/static/js/main.7d0f386f.js",
     "static/media/pexels-skitterphoto-33968.jpg": "/Emmi-Tenzies/static/media/pexels-skitterphoto-33968.1f2d834fa4bede611a43.jpg",
     "static/media/pexels-skitterphoto-705171.jpg": "/Emmi-Tenzies/static/media/pexels-skitterphoto-705171.5584259ca9cdbf817121.jpg",
     "index.html": "/Emmi-Tenzies/index.html",
     "main.d243cceb.css.map": "/Emmi-Tenzies/static/css/main.d243cceb.css.map",
-    "main.620b229c.js.map": "/Emmi-Tenzies/static/js/main.620b229c.js.map"
+    "main.7d0f386f.js.map": "/Emmi-Tenzies/static/js/main.7d0f386f.js.map"
   },
   "entrypoints": [
     "static/css/main.d243cceb.css",
-    "static/js/main.620b229c.js"
+    "static/js/main.7d0f386f.js"
   ]
 }
