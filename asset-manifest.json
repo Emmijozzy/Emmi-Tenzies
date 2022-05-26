@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emmi-Tenzies/static/css/main.d243cceb.css",
+    "main.js": "/Emmi-Tenzies/static/js/main.2244a60a.js",
+    "static/media/pexels-skitterphoto-33968.jpg": "/Emmi-Tenzies/static/media/pexels-skitterphoto-33968.1f2d834fa4bede611a43.jpg",
+    "static/media/pexels-skitterphoto-705171.jpg": "/Emmi-Tenzies/static/media/pexels-skitterphoto-705171.5584259ca9cdbf817121.jpg",
+    "index.html": "/Emmi-Tenzies/index.html",
+    "main.d243cceb.css.map": "/Emmi-Tenzies/static/css/main.d243cceb.css.map",
+    "main.2244a60a.js.map": "/Emmi-Tenzies/static/js/main.2244a60a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d243cceb.css",
+    "static/js/main.2244a60a.js"
+  ]
+}
